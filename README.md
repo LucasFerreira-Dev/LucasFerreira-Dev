@@ -1,4 +1,3 @@
-<h1>Lucas Gabriel da Silva Ferreira </h1>
 ##ola
 - 👋 Hi, I’m @LucasFerreira-Dev
 - 👀 I’m interested in work
