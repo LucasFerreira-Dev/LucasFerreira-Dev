@@ -1,4 +1,5 @@
-##ola
+<h1>Lucas Gabriel</h1>
+
 - 👋 Hi, I’m @LucasFerreira-Dev
 - 👀 I’m interested in work
 - 🌱 I’m currently learning JavaScript...
@@ -7,3 +8,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<div>
+  <a href="https://github.com/LucasFerreira-Dev">
+  <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)">
+</div>
