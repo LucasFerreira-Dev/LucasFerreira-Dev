@@ -1,6 +1,6 @@
 # 🤖 Lucas Gabriel☕
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 <p>
   Me chamo Lucas Gabriel da Silva Ferreira, tenho 19 anos e sou natural de João Pessoa. Concluí o ensino médio no ECIT. Atualmente, estou cursando Ciência da Computação na UNIPÊ. Gosto da área de jogos e fiz meu primeiro jogo participando da <a href="https://globalgamejam.org/games/2025/bubble-adventure-0-3">Global Game Jam 2025</a>, um evento maravilhoso que aconteceu no UNIPÊ por três dias. Participei do evento sem saber nada e desenvolvi o jogo praticamente assistindo tutoriais no YouTube, provando que, com dedicação, tudo é possível. 😎
