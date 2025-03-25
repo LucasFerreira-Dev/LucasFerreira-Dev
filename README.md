@@ -8,7 +8,7 @@
 
 
 <p align="left">
-    <a href="lucasgabrieldasilvaferreira76@gmail.com">
+    <a href="">
       <img
         alt="Gmail Pessoal"
         title="Gmail Pessoal"
