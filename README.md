@@ -2,6 +2,24 @@
 
 **`Desenvolvedora FullStack`**
 
+<style>
+  a {
+    color: #007bff; /* Cor azul */
+    text-decoration: none; /* Remove o sublinhado */
+    font-weight: bold; /* Deixa em negrito */
+    transition: color 0.3s ease-in-out; /* Animação suave na cor */
+  }
+
+  a:hover {
+    color: #ff4500; /* Muda para laranja ao passar o mouse */
+    text-decoration: underline; /* Adiciona sublinhado ao passar o mouse */
+  }
+
+  a:active {
+    color: #008000; /* Muda para verde quando clicado */
+  }
+</style>
+
 <p>
   Me chamo Lucas Gabriel da Silva Ferreira, tenho 19 anos e sou natural de João Pessoa. Concluí o ensino médio no ECIT. Atualmente, estou cursando Ciência da Computação na UNIPÊ. Gosto da área de jogos e fiz meu primeiro jogo participando da <a href="https://globalgamejam.org/games/2025/bubble-adventure-0-3">Global Game Jam 2025</a>, um evento maravilhoso que aconteceu no UNIPÊ por três dias. Participei do evento sem saber nada e desenvolvi o jogo praticamente assistindo tutoriais no YouTube, provando que, com dedicação, tudo é possível. 😎
 </p>
